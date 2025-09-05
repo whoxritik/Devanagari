@@ -1,1 +1,1 @@
-# Devanagari
+GenAi Assignments
